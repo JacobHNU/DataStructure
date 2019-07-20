@@ -2,6 +2,7 @@
 DS for freshman
 
 ### deleteX
-### deleteRange_s_to_t
+### deleteRange_S_to_T
 ### deleteSame
-### hashtable
+### straightInsertionSort
+### HashTable
