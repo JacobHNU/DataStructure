@@ -1,4 +1,7 @@
 # freshman
 DS for freshman
 
-### 2019/7/20 hash表学习
+### deleteX
+### deleteRange_s_to_t
+### deleteSame
+### hashtable
